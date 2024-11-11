@@ -1,0 +1,20 @@
+.imga{
+    height: 60vh;
+    width: 100vh;
+}
+.imgaa{
+    position: relative;
+    height: 55vh;
+    width: 90vh;
+    margin-left: 25px;
+}
+.head{
+    margin-top: 90px;
+    height: 50vh;
+    width: 100vh;
+    color: #d1c6c6;
+    text-align: center;
+}
+.about{
+    display: flex;
+}

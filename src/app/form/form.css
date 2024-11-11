@@ -1,0 +1,47 @@
+.headp{
+    font-size: 30px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+}
+.formdiv{
+    font-size: 30px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+}
+.form{
+    color: #ffffff;
+    font-size: 20px;
+}
+.fi1{
+    position: relative;
+    height: 500px;
+    width: 200vh;
+}
+
+.fi{
+
+    height: 500px;
+    width: 200vh;
+    margin-left: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.submitf{
+    color: red;
+    padding: 5px;
+    background-color: black;
+    border-color: red;
+}
+.msg{
+    color: red;
+    font-weight: 500;
+}
+    

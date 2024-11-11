@@ -1,0 +1,21 @@
+.copyright{
+    background: #a00505;
+    padding: .6rem 0;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: #fff;
+    font-size: .8rem;
+    font-weight: 500;
+    position:static;
+    bottom: 0%;
+    width: 204.9vh;
+}
+.footer{
+    height: 40px;
+    width: 205;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-left: 3px;
+}

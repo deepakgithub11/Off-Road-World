@@ -1,0 +1,31 @@
+a {
+    font-weight: 500;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+
+
+}
+a:hover{
+    color: red;
+}
+ul {
+    background-color: #18da59cb;
+    margin: 0px;
+    margin-top: 0%;
+    display: flex;
+    padding: 25px;
+    gap: 50px;
+    margin: 0%;
+}
+
+.logo {
+    margin-left: 950px;
+    color: aliceblue;
+    font-family: bold;
+}
+
+img {
+    position: absolute;
+    top: 12px;
+    height: 60px;
+}

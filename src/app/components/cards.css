@@ -1,0 +1,11 @@
+.container{
+    margin: 20px;
+    padding: 25px;
+background-color: rgba(98, 98, 98, 0.367);
+width: 20vh;
+}
+
+.card{
+    margin-left: 420px;
+    display: flex;
+}
