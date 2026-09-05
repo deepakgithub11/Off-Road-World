@@ -11,7 +11,10 @@ import Mid from "./components/mid"
 
 export default function Home() {
   return (
+    <>
+    Hello Worls
     <Mid/>
+    </>
 
   )
 }
